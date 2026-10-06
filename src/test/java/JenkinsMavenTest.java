@@ -14,6 +14,6 @@ public class JenkinsMavenTest {
 
         assertEquals(30, result);
 
-        System.out.println("Addition test executed successfully.");
+        System.out.println("Jenkins webhook test executed successfully.");
     }
 }
